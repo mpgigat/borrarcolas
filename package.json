@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --experimental-json-modules app.js"
+    "start": "node --experimental-json-modules app.js"
   },
   "type": "module",
   "keywords": [],
